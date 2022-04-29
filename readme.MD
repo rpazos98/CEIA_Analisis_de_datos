@@ -4,7 +4,6 @@ En esta matería vamos a estar viendo las herramientas básicas necesarias para 
 
 ## Docentes
 
-- Magdalena Bouza. Email: bouza.magdalena@gmail.com
 - Nahuel Pelli. Email: nahuelpelli91@gmail.com
 
 # Contenidos de la materia:
