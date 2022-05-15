@@ -14,7 +14,7 @@ En esta matería vamos a estar viendo las herramientas básicas necesarias para 
 
 - Clase 2:Análisis básico de media, desvío estándar, oblicuidad (skewness, curtosis, cuantiles, IQR
 	- [Teoria](clase_2/AdDAI_clase2.pdf)
-	- [Práctica](clase_2/Colab - Análisis_de_datos_clase_2.ipynb)
+	- [Práctica](clase_2/Colab\ -\ Análisis_de_datos_clase_2.ipynb)
 
 - Clase 3: Tipos de datos, características (features) e ingeniería de features. Tipos de variable de entrada y salida: continuas y categóricas (nominal y ordinal)
 	- [Teoria](clase_3/mcd_ada_clase3.pdf)
