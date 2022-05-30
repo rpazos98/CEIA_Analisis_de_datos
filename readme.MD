@@ -17,12 +17,14 @@ En esta matería vamos a estar viendo las herramientas básicas necesarias para 
 	- [Práctica](clase_2/aad_clase2_practica.ipynb)
 
 - Clase 3: Tipos de datos, características (features) e ingeniería de features. Tipos de variable de entrada y salida: continuas y categóricas (nominal y ordinal)
-	- [Teoria](clase_3/mcd_ada_clase3.pdf)
+	- [Teoria](clase_3/ceia_add_clase3.pdf)
 	- [Práctica](clase_3/notebooks/)
 - Clase 4: Codificación y normalización de datos. Tratamiento de datos faltantes.
-
+	- [Teoria](clase_4/mcd_ada_clase4.pdf)
+	- [Práctica](clase_4/notebooks/)
 - Clase 5: Conceptos de Variables Aleatorias. Teoría de la información
-
+	- [Teoria](clase_5/mcd_ada_clase3.pdf)
+	- [Notas Adicionales](clase_5/Adicional_clase5.pdf)
 - Clase 6: Aplicación de test estadísticos univariados para ML. Ejemplos prácticos. Reducción de dimensionalidad. Normalización
 
 - Clase 7: Análisis de un caso de uso real.
