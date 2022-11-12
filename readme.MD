@@ -19,13 +19,19 @@ En esta matería vamos a estar viendo las herramientas básicas necesarias para 
 - Clase 3: Tipos de datos, características (features) e ingeniería de features. Tipos de variable de entrada y salida: continuas y categóricas (nominal y ordinal)
 	- [Teoria](clase_3/ceia_add_clase3.pdf)
 	- [Práctica](clase_3/notebooks/)
+
 - Clase 4: Codificación y normalización de datos. Tratamiento de datos faltantes.
-	- [Teoria](clase_4/mcd_ada_clase4.pdf)
+	- [Teoria](clase_4/ceia_add_clase4.pdf)
 	- [Práctica](clase_4/notebooks/)
+
 - Clase 5: Conceptos de Variables Aleatorias. Teoría de la información
-	- [Teoria](clase_5/mcd_ada_clase3.pdf)
-	- [Notas Adicionales](clase_5/Adicional_clase5.pdf)
+	- [Teoria](clase_5/ceia_add_clase5.pdf)
+	- [Práctica](clase_5/notebooks/)
+
 - Clase 6: Aplicación de test estadísticos univariados para ML. Ejemplos prácticos. Reducción de dimensionalidad. Normalización
+	- [Teoria - Reducción de dimensiones](clase_6/clase%206%20-%20Reducción%20de%20dimensiones.pdf)
+	- [Teoria - Selección de features](clase_6/clase%206%20-%20Selección%20de%20features.pdf)
+	- [Práctica](clase_6/notebooks/)
 
 - Clase 7: Análisis de un caso de uso real.
 
