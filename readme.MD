@@ -29,8 +29,7 @@ En esta matería vamos a estar viendo las herramientas básicas necesarias para 
 	- [Práctica](clase_5/notebooks/)
 
 - Clase 6: Aplicación de test estadísticos univariados para ML. Ejemplos prácticos. Reducción de dimensionalidad. Normalización
-	- [Teoria - Reducción de dimensiones](clase_6/clase%206%20-%20Reducción%20de%20dimensiones.pdf)
-	- [Teoria - Selección de features](clase_6/clase%206%20-%20Selección%20de%20features.pdf)
+	- [Teoria](clase_6/ceia_add_clase6.pdf)
 	- [Práctica](clase_6/notebooks/)
 
 - Clase 7: Análisis de un caso de uso real.
