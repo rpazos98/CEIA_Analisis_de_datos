@@ -32,6 +32,6 @@ En esta matería vamos a estar viendo las herramientas básicas necesarias para 
 	- [Teoria](clase_6/ceia_add_clase6.pdf)
 	- [Práctica](clase_6/notebooks/)
 
-- Clase 7: Análisis de un caso de uso real.
+- Clase 7: Continuación clase 6. Reducción de dimensionalidad
 
 - Clase 8: Presentación de trabajos finales
